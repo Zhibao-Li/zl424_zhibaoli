@@ -93,5 +93,13 @@ Actually, there are 4 major companies belong to this business type! It means “
 
 <br>
 
+## **4. Reference**
+
+* Statement by REAR ADMIRAL WILLIAM CHASE, DEPUTY PRINCIPAL CYBER ADVISOR TO THE SECRETARY OF DEFENSE May 18, 2021
+* U.S. Defense Contractors Failing to Meet CMMC Requirements, 48% Have “Severe” Vulnerabilities July 6, 2021
+* “The focus of this report is on the activities of UNC2630 against U.S. Defense Industrial Base (DIB) networks....” April 20, 2021
+     
+* Industry matters when assessing cyber risk to the defense industrial base
 
 
+<br>
