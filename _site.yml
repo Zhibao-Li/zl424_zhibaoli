@@ -1,0 +1,17 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Scholarship Competition"
+      href: index.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    include:
+      before_body: logo-option.html
+      after_body: footer.html
+    toc: true
+    toc_float: false
+    
